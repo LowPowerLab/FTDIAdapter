@@ -70,7 +70,6 @@
 <layer number="110" name="fp0" color="7" fill="1" visible="no" active="yes"/>
 <layer number="111" name="LPC17xx" color="7" fill="1" visible="no" active="yes"/>
 <layer number="112" name="tSilk" color="7" fill="1" visible="no" active="yes"/>
-<layer number="113" name="HACKVANA_CODE" color="10" fill="1" visible="yes" active="yes"/>
 <layer number="116" name="Patch_BOT" color="9" fill="4" visible="no" active="yes"/>
 <layer number="121" name="_tsilk" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="122" name="_bsilk" color="7" fill="1" visible="no" active="yes"/>
@@ -185,7 +184,6 @@ ADAPTER</text>
 <wire x1="17.018" y1="15.748" x2="17.145" y2="15.748" width="0.381" layer="21"/>
 <wire x1="17.145" y1="15.748" x2="17.272" y2="15.875" width="0.381" layer="21"/>
 <wire x1="17.272" y1="15.875" x2="17.272" y2="16.002" width="0.381" layer="21"/>
-<text x="10.16" y="14.9098" size="0.762" layer="113" font="vector" ratio="15" rot="MR270" align="bottom-center">XXXXXXXXXXXX</text>
 <wire x1="0" y1="28.575" x2="1.905" y2="30.48" width="0" layer="20" curve="-90"/>
 <wire x1="15.875" y1="30.48" x2="17.78" y2="28.575" width="0" layer="20" curve="-90"/>
 <wire x1="17.78" y1="3.048" x2="15.875" y2="1.143" width="0" layer="20" curve="-90"/>
